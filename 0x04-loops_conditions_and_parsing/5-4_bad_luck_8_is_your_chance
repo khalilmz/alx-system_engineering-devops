@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times using while with conditionals
+# This script is displaying
 n=1
 while [ $n -le 10 ]
 do
@@ -10,7 +10,7 @@ do
     then
         echo "good luck"
     else
-        echo "Holberton School"
+        echo "Best School"
     fi
     n=$(( n+1 ))
 done

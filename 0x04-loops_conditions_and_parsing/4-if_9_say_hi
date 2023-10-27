@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times using while with if statement
+# This script is displaying "Best School" 10 times using while with if statement
 n=1
 while [ $n -le 10 ]
 do
-    echo "Holberton School"
+    echo "Best School"
     if [ $n -eq 9 ];
     then
         echo "Hi"
